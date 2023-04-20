@@ -218,7 +218,7 @@ int main()
 {
     // asking the user to cin the input file directory 
     cout << "K-Map Boolean Simplifier" << endl << endl << "Please enter the input file directory: "; 
-    string inputFileDirectory; // C:\\Users\\zeinn\\Desktop\\uni\\fall 2022\\digital design\\projects\\K-maps Project input and output files\\input.txt
+    string inputFileDirectory;
     getline(cin, inputFileDirectory);
 
     // opening the file
